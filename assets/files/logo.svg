@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.71254845"
+     inkscape:cx="313.66288"
+     inkscape:cy="470.14347"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-92.218015 : 203.19551 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="117.78199 : 203.19551 : 1"
+       inkscape:persp3d-origin="12.781985 : 153.69551 : 1"
+       id="perspective82429" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient80942">
+      <stop
+         style="stop-color:#090979;stop-opacity:1;"
+         offset="0"
+         id="stop80938" />
+      <stop
+         style="stop-color:#090979;stop-opacity:0;"
+         offset="1"
+         id="stop80940" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient61400">
+      <stop
+         style="stop-color:#2c5aa0;stop-opacity:1;"
+         offset="0"
+         id="stop61396" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0"
+         offset="1"
+         id="stop61398" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient60796">
+      <stop
+         style="stop-color:#2c5aa0;stop-opacity:1;"
+         offset="0"
+         id="stop60792" />
+      <stop
+         style="stop-color:#2c5aa0;stop-opacity:0;"
+         offset="1"
+         id="stop60794" />
+    </linearGradient>
+    <rect
+       x="95.432107"
+       y="-161.39253"
+       width="305.94411"
+       height="40.698987"
+       id="rect59800" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient157704">
+      <stop
+         style="stop-color:#090979;stop-opacity:1;"
+         offset="0"
+         id="stop157700" />
+      <stop
+         style="stop-color:#090979;stop-opacity:0;"
+         offset="1"
+         id="stop157702" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-102.22027 : 209.32889 : 1"
+       inkscape:vp_y="0 : 473.81085 : 0"
+       inkscape:vp_z="-59.850575 : 209.32889 : 1"
+       inkscape:persp3d-origin="-81.035423 : 185.87524 : 1"
+       id="perspective113770" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective46018" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient40526">
+      <stop
+         style="stop-color:#090979;stop-opacity:1;"
+         offset="0"
+         id="stop40522" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0"
+         offset="1"
+         id="stop40524" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40488">
+      <g
+         inkscape:label="Clip"
+         id="use40490"
+         style="fill:url(#linearGradient68184);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'Copperplate Gothic Bold';fill:url(#linearGradient68182);fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'Copperplate Gothic Bold, ';font-stretch:normal;font-variant:normal"
+           x="66.874573"
+           y="89.357208"
+           id="text68178"><tspan
+             sodipodi:role="line"
+             id="tspan68176"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:url(#linearGradient68182);fill-opacity:1;stroke-width:0.264583"
+             x="66.874573"
+             y="89.357208">FERRER </tspan></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient40526"
+       id="linearGradient68182"
+       gradientUnits="userSpaceOnUse"
+       x1="105.68571"
+       y1="81.385712"
+       x2="49.371426"
+       y2="81.771431" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient40526"
+       id="linearGradient68184"
+       gradientUnits="userSpaceOnUse"
+       x1="105.68571"
+       y1="81.385712"
+       x2="49.371426"
+       y2="81.771431" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient157704"
+       id="linearGradient157706"
+       x1="-227.78159"
+       y1="91.87532"
+       x2="184.21922"
+       y2="58.133877"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient157704"
+       id="linearGradient157918"
+       gradientUnits="userSpaceOnUse"
+       x1="-227.78159"
+       y1="91.87532"
+       x2="184.21922"
+       y2="58.133877" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2556">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop2552" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="1"
+         id="stop2554" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2138"
+       id="linearGradient2140"
+       x1="-25.264307"
+       y1="27.050919"
+       x2="43.872002"
+       y2="33.352001"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2138">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop2134" />
+      <stop
+         style="stop-color:#090979;stop-opacity:0"
+         offset="1"
+         id="stop2136" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2138"
+       id="linearGradient1656"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.264307"
+       y1="27.050919"
+       x2="43.872002"
+       y2="33.352001" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2556"
+       id="linearGradient12482"
+       gradientUnits="userSpaceOnUse"
+       x1="71.742577"
+       y1="38.533363"
+       x2="3.2438376"
+       y2="45.264454" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient80942"
+       id="linearGradient12484"
+       gradientUnits="userSpaceOnUse"
+       x1="73.020348"
+       y1="16.606159"
+       x2="-58.525322"
+       y2="26.710794" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2138"
+       id="linearGradient12486"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.264307"
+       y1="27.050919"
+       x2="43.872002"
+       y2="33.352001" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2138"
+       id="linearGradient12488"
+       gradientUnits="userSpaceOnUse"
+       x1="-25.264307"
+       y1="27.050919"
+       x2="43.872002"
+       y2="33.352001" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2556"
+       id="linearGradient12490"
+       gradientUnits="userSpaceOnUse"
+       x1="71.742577"
+       y1="38.533363"
+       x2="3.2438376"
+       y2="45.264454" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2556"
+       id="linearGradient12492"
+       gradientUnits="userSpaceOnUse"
+       x1="71.742577"
+       y1="38.533363"
+       x2="3.2438376"
+       y2="45.264454" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60796"
+       id="linearGradient60790"
+       x1="-212.40762"
+       y1="42.107555"
+       x2="-157.02814"
+       y2="44.725559"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient61400"
+       id="linearGradient61394"
+       x1="13.738832"
+       y1="40.102535"
+       x2="-31.9335"
+       y2="38.617256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(206.48068,65.75171)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient80942"
+       id="linearGradient80944"
+       x1="-29.63686"
+       y1="30.321795"
+       x2="30.587999"
+       y2="30.917999"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient80942"
+       id="linearGradient81102"
+       gradientUnits="userSpaceOnUse"
+       x1="-29.63686"
+       y1="30.321795"
+       x2="30.587999"
+       y2="30.917999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2556"
+       id="linearGradient81772"
+       gradientUnits="userSpaceOnUse"
+       x1="71.988617"
+       y1="16.606159"
+       x2="-46.660419"
+       y2="33.932796" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60796"
+       id="linearGradient82347"
+       gradientUnits="userSpaceOnUse"
+       x1="-212.40762"
+       y1="42.107555"
+       x2="-157.02814"
+       y2="44.725559" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2c5aa0;fill-rule:evenodd;stroke-width:0.196794"
+       id="rect31"
+       width="213.45457"
+       height="298.19424"
+       x="-1.8515167"
+       y="-0.0065090172" />
+    <g
+       transform="matrix(2.7585868e-4,4.2242258e-4,4.2242258e-4,-2.7585868e-4,-174.40563,18.597048)"
+       fill="#000000"
+       stroke="none"
+       id="g6"
+       style="fill:#e3d7f4" />
+    <rect
+       style="fill:#00ffff;fill-opacity:0;stroke-width:0.264583"
+       id="rect45908"
+       width="13.885715"
+       height="40.114285"
+       x="273.24155"
+       y="184.09009" />
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g46020"
+       style="fill:#00ffff;fill-opacity:0"
+       inkscape:perspectiveID="#perspective46018"
+       inkscape:corner0="3.8611112 : 0.19387503 : 0 : 1"
+       inkscape:corner7="-3.5681341 : -0.13573587 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46026"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="m 21.6,118.8 -62.485716,85.91787 V 76.371425 L 21.6,186.60567 Z"
+         points="-40.885716,204.71787 -40.885716,76.371425 21.6,186.60567 21.6,118.8 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46022"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 21.6,118.8 v 67.80567 l 9.215218,-1.86387 v -64.48908 z"
+         points="21.6,186.60567 30.815218,184.7418 30.815218,120.25272 21.6,118.8 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46024"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 21.6,118.8 -62.485716,85.91787 -27.056861,6.06284 98.757795,-90.52799 z"
+         points="-40.885716,204.71787 -67.942577,210.78071 30.815218,120.25272 21.6,118.8 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46032"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="m 30.815218,120.25272 -98.757795,90.52799 V 68.592692 L 30.815218,184.7418 Z"
+         points="-67.942577,210.78071 -67.942577,68.592692 30.815218,184.7418 30.815218,120.25272 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46028"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="M -40.885716,204.71787 V 76.371425 L -67.942577,68.592692 V 210.78071 Z"
+         points="-40.885716,76.371425 -67.942577,68.592692 -67.942577,210.78071 -40.885716,204.71787 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46030"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="M 21.6,186.60567 -40.885716,76.371425 -67.942577,68.592692 30.815218,184.7418 Z"
+         points="-40.885716,76.371425 -67.942577,68.592692 30.815218,184.7418 21.6,186.60567 " />
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g46034"
+       style="fill:#00ffff;fill-opacity:0"
+       inkscape:perspectiveID="#perspective82429"
+       inkscape:corner0="-0.27018169 : 0.061082737 : 0 : 1"
+       inkscape:corner7="-0.3471889 : 0.041617965 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46046"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 68.526075,81.983185 82.237087,80.974861 V 102.53504 L 68.526075,101.84888 Z"
+         points="82.237087,80.974861 82.237087,102.53504 68.526075,101.84888 68.526075,81.983185 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46036"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 51.653411,77.933783 v 26.670707 l 16.872664,-2.75561 V 81.983185 Z"
+         points="51.653411,104.60449 68.526075,101.84888 68.526075,81.983185 51.653411,77.933783 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46044"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 51.653411,104.60449 16.971429,1.274 13.612247,-3.34345 -13.711012,-0.68616 z"
+         points="68.62484,105.87849 82.237087,102.53504 68.526075,101.84888 51.653411,104.60449 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46038"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="M 51.653411,77.933783 68.62484,76.061635 82.237087,80.974861 68.526075,81.983185 Z"
+         points="68.62484,76.061635 82.237087,80.974861 68.526075,81.983185 51.653411,77.933783 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46042"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 68.62484,76.061635 v 29.816855 l 13.612247,-3.34345 V 80.974861 Z"
+         points="68.62484,105.87849 82.237087,102.53504 82.237087,80.974861 68.62484,76.061635 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46040"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 51.653411,77.933783 68.62484,76.061635 v 29.816855 l -16.971429,-1.274 z"
+         points="68.62484,76.061635 68.62484,105.87849 51.653411,104.60449 51.653411,77.933783 " />
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g46048"
+       style="fill:#00ffff;fill-opacity:0"
+       inkscape:perspectiveID="#perspective46018"
+       inkscape:corner0="0.055124917 : 0.084906983 : 0 : 1"
+       inkscape:corner7="-0.42325799 : 0.073525427 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46060"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="m 120.67811,121.37081 69.82872,-15.69793 v 13.76676 l -69.82872,10.65184 z"
+         points="190.50683,105.67288 190.50683,119.43964 120.67811,130.09148 120.67811,121.37081 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46050"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 99.514286,114.94286 v 10.78692 l 21.163824,4.3617 v -8.72067 z"
+         points="99.514286,125.72978 120.67811,130.09148 120.67811,121.37081 99.514286,114.94286 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46052"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 99.514286,114.94286 82.542854,-27.834226 8.44969,18.564246 -69.82872,15.69793 z"
+         points="182.05714,87.108634 190.50683,105.67288 120.67811,121.37081 99.514286,114.94286 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46058"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 99.514286,125.72978 82.542854,-18.88692 8.44969,12.59678 -69.82872,10.65184 z"
+         points="182.05714,106.84286 190.50683,119.43964 120.67811,130.09148 99.514286,125.72978 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46056"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 182.05714,87.108634 v 19.734226 l 8.44969,12.59678 v -13.76676 z"
+         points="182.05714,106.84286 190.50683,119.43964 190.50683,105.67288 182.05714,87.108634 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path46054"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 99.514286,114.94286 182.05714,87.108634 v 19.734226 l -82.542854,18.88692 z"
+         points="182.05714,87.108634 182.05714,106.84286 99.514286,125.72978 99.514286,114.94286 " />
+    </g>
+    <g
+       id="g156580"
+       transform="matrix(1.0414301,0,0,1.0414284,96.346784,-167.31929)"
+       style="fill:url(#linearGradient157706);fill-opacity:1">
+      <g
+         id="g156578"
+         transform="translate(-146.95715,-15.042857)"
+         style="fill:url(#linearGradient157918);fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.4533px;line-height:1.25;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.311333"
+       x="115.33435"
+       y="117.8042"
+       id="text197144"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan197142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#ffffff;stroke-width:0.311333"
+         x="115.33435"
+         y="117.8042">it solutions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8408px;line-height:1.25;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:none;fill-opacity:1;stroke:none;stroke-width:0.32102"
+       x="145.26086"
+       y="91.219269"
+       id="text47163"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan47161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:none;fill-opacity:1;stroke-width:0.32102"
+         x="145.26086"
+         y="91.219269">I</tspan></text>
+    <g
+       id="g4-1"
+       transform="matrix(0.71979978,0,0,0.71981118,93.446968,102.16438)"
+       style="fill:url(#linearGradient2140);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2870"
+         style="fill:url(#linearGradient1656)">
+        <path
+           id="path2-4"
+           style="fill:#009900;fill-opacity:0;stroke:none;stroke-opacity:1"
+           d="m 23.011,44.446 h 7.578 v 9.479 C 27.374,50.959 24.827,47.774 23.011,44.446 Z M 30.595,33.352 H 19.75 c 0.176,2.931 0.876,5.842 2.086,8.659 h 8.759 z m 0,-11.093 h -8.989 c -1.13,2.805 -1.768,5.715 -1.879,8.659 h 10.861 v -8.659 z m -19.27,19.752 h 7.879 C 18.103,39.194 17.47,36.285 17.311,33.352 h -8.21 c 0.166,3.034 0.909,5.944 2.224,8.659 z M 30.595,9.827 c -3.395,3.121 -6.031,6.479 -7.857,9.996 h 7.857 z m 2.432,21.09 H 43.89 c -0.111,-2.944 -0.746,-5.854 -1.88,-8.659 h -8.986 v 8.659 z m 0,-21.09 v 9.996 h 7.857 C 39.057,16.306 36.424,12.947 33.027,9.827 Z M 9.105,30.917 h 8.186 c 0.101,-2.937 0.674,-5.844 1.705,-8.659 H 11.323 C 10.01,24.972 9.267,27.883 9.105,30.917 Z M 27.049,9.897 c -5.902,1.256 -11.062,4.819 -14.356,9.925 h 7.328 c 1.621,-3.458 3.985,-6.79 7.028,-9.925 z m 5.978,44.028 c 3.215,-2.964 5.766,-6.147 7.576,-9.479 h -7.576 z m 17.905,-9.479 h -7.587 c -1.738,3.522 -4.223,6.9 -7.4,10.053 6.171,-1.131 11.56,-4.74 14.987,-10.053 z m 0,-24.624 c -3.294,-5.106 -8.458,-8.669 -14.357,-9.925 3.043,3.132 5.401,6.467 7.032,9.925 z M 27.675,54.497 c -3.174,-3.155 -5.662,-6.528 -7.4,-10.053 h -7.587 c 3.425,5.315 8.816,8.924 14.987,10.053 z M 52.296,22.259 h -7.674 c 1.031,2.814 1.608,5.722 1.706,8.659 h 8.185 C 54.354,27.883 53.61,24.972 52.296,22.259 Z M 33.027,42.011 h 8.758 c 1.211,-2.817 1.907,-5.729 2.087,-8.659 H 33.027 Z m 21.486,-8.659 h -8.207 c -0.155,2.934 -0.792,5.842 -1.889,8.659 h 7.879 c 1.314,-2.715 2.058,-5.625 2.217,-8.659 z m 5.34,-1.734 c 0,15.571 -12.669,28.242 -28.237,28.242 -15.573,0 -28.24,-12.671 -28.24,-28.242 0,-15.57 12.667,-28.237 28.24,-28.237 5.922,0 11.684,1.877 16.46,5.305 l -3.332,3.331 12.698,3.31 L 54.134,2.63 50.487,6.279 C 45.056,2.231 38.436,0 31.621,0 14.184,0 0,14.184 0,31.618 0,49.055 14.184,63.24 31.621,63.24 c 17.434,0 31.62,-14.186 31.62,-31.623 h -3.388 z" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.361755"
+       y="101.62994"
+       id="text5202"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5200"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="59.361755"
+         y="101.62994">FERRER SYSTEMS</tspan></text>
+    <rect
+       style="opacity:0.89;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.272568;stroke-opacity:1"
+       id="rect12340"
+       width="152.97575"
+       height="2.591253"
+       x="51.653412"
+       y="104.60449"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g12464"
+       transform="matrix(0.71979978,0,0,0.71981118,1.6795412,79.57245)"
+       style="fill:url(#linearGradient12492);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 23.011,44.446 h 7.578 v 9.479 C 27.374,50.959 24.827,47.774 23.011,44.446 Z M 30.595,33.352 H 19.75 c 0.176,2.931 0.876,5.842 2.086,8.659 h 8.759 z m 0,-11.093 h -8.989 c -1.13,2.805 -1.768,5.715 -1.879,8.659 h 10.861 v -8.659 z m -19.27,19.752 h 7.879 C 18.103,39.194 17.47,36.285 17.311,33.352 h -8.21 c 0.166,3.034 0.909,5.944 2.224,8.659 z M 30.595,9.827 c -3.395,3.121 -6.031,6.479 -7.857,9.996 h 7.857 z m 2.432,21.09 H 43.89 c -0.111,-2.944 -0.746,-5.854 -1.88,-8.659 h -8.986 v 8.659 z m 0,-21.09 v 9.996 h 7.857 C 39.057,16.306 36.424,12.947 33.027,9.827 Z M 9.105,30.917 h 8.186 c 0.101,-2.937 0.674,-5.844 1.705,-8.659 H 11.323 C 10.01,24.972 9.267,27.883 9.105,30.917 Z M 27.049,9.897 c -5.902,1.256 -11.062,4.819 -14.356,9.925 h 7.328 c 1.621,-3.458 3.985,-6.79 7.028,-9.925 z m 5.978,44.028 c 3.215,-2.964 5.766,-6.147 7.576,-9.479 h -7.576 z m 17.905,-9.479 h -7.587 c -1.738,3.522 -4.223,6.9 -7.4,10.053 6.171,-1.131 11.56,-4.74 14.987,-10.053 z m 0,-24.624 c -3.294,-5.106 -8.458,-8.669 -14.357,-9.925 3.043,3.132 5.401,6.467 7.032,9.925 z M 27.675,54.497 c -3.174,-3.155 -5.662,-6.528 -7.4,-10.053 h -7.587 c 3.425,5.315 8.816,8.924 14.987,10.053 z M 52.296,22.259 h -7.674 c 1.031,2.814 1.608,5.722 1.706,8.659 h 8.185 C 54.354,27.883 53.61,24.972 52.296,22.259 Z M 33.027,42.011 h 8.758 c 1.211,-2.817 1.907,-5.729 2.087,-8.659 H 33.027 Z m 21.486,-8.659 h -8.207 c -0.155,2.934 -0.792,5.842 -1.889,8.659 h 7.879 c 1.314,-2.715 2.058,-5.625 2.217,-8.659 z m 5.34,-1.734 c 0,15.571 -12.669,28.242 -28.237,28.242 -15.573,0 -28.24,-12.671 -28.24,-28.242 0,-15.57 12.667,-28.237 28.24,-28.237 5.922,0 11.684,1.877 16.46,5.305 l -3.332,3.331 12.698,3.31 L 54.134,2.63 50.487,6.279 C 45.056,2.231 38.436,0 31.621,0 14.184,0 0,14.184 0,31.618 0,49.055 14.184,63.24 31.621,63.24 c 17.434,0 31.62,-14.186 31.62,-31.623 h -3.388 z"
+         id="path12462"
+         style="fill:url(#linearGradient12490);fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g12470"
+       transform="matrix(0.71979978,0,0,0.71981118,1.6795412,79.57245)"
+       style="fill:url(#linearGradient12488);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g12468"
+         style="fill:url(#linearGradient12486)">
+        <path
+           id="path12466"
+           style="fill:#009900;fill-opacity:0;stroke:none;stroke-opacity:1"
+           d="m 23.011,44.446 h 7.578 v 9.479 C 27.374,50.959 24.827,47.774 23.011,44.446 Z M 30.595,33.352 H 19.75 c 0.176,2.931 0.876,5.842 2.086,8.659 h 8.759 z m 0,-11.093 h -8.989 c -1.13,2.805 -1.768,5.715 -1.879,8.659 h 10.861 v -8.659 z m -19.27,19.752 h 7.879 C 18.103,39.194 17.47,36.285 17.311,33.352 h -8.21 c 0.166,3.034 0.909,5.944 2.224,8.659 z M 30.595,9.827 c -3.395,3.121 -6.031,6.479 -7.857,9.996 h 7.857 z m 2.432,21.09 H 43.89 c -0.111,-2.944 -0.746,-5.854 -1.88,-8.659 h -8.986 v 8.659 z m 0,-21.09 v 9.996 h 7.857 C 39.057,16.306 36.424,12.947 33.027,9.827 Z M 9.105,30.917 h 8.186 c 0.101,-2.937 0.674,-5.844 1.705,-8.659 H 11.323 C 10.01,24.972 9.267,27.883 9.105,30.917 Z M 27.049,9.897 c -5.902,1.256 -11.062,4.819 -14.356,9.925 h 7.328 c 1.621,-3.458 3.985,-6.79 7.028,-9.925 z m 5.978,44.028 c 3.215,-2.964 5.766,-6.147 7.576,-9.479 h -7.576 z m 17.905,-9.479 h -7.587 c -1.738,3.522 -4.223,6.9 -7.4,10.053 6.171,-1.131 11.56,-4.74 14.987,-10.053 z m 0,-24.624 c -3.294,-5.106 -8.458,-8.669 -14.357,-9.925 3.043,3.132 5.401,6.467 7.032,9.925 z M 27.675,54.497 c -3.174,-3.155 -5.662,-6.528 -7.4,-10.053 h -7.587 c 3.425,5.315 8.816,8.924 14.987,10.053 z M 52.296,22.259 h -7.674 c 1.031,2.814 1.608,5.722 1.706,8.659 h 8.185 C 54.354,27.883 53.61,24.972 52.296,22.259 Z M 33.027,42.011 h 8.758 c 1.211,-2.817 1.907,-5.729 2.087,-8.659 H 33.027 Z m 21.486,-8.659 h -8.207 c -0.155,2.934 -0.792,5.842 -1.889,8.659 h 7.879 c 1.314,-2.715 2.058,-5.625 2.217,-8.659 z m 5.34,-1.734 c 0,15.571 -12.669,28.242 -28.237,28.242 -15.573,0 -28.24,-12.671 -28.24,-28.242 0,-15.57 12.667,-28.237 28.24,-28.237 5.922,0 11.684,1.877 16.46,5.305 l -3.332,3.331 12.698,3.31 L 54.134,2.63 50.487,6.279 C 45.056,2.231 38.436,0 31.621,0 14.184,0 0,14.184 0,31.618 0,49.055 14.184,63.24 31.621,63.24 c 17.434,0 31.62,-14.186 31.62,-31.623 h -3.388 z" />
+      </g>
+    </g>
+    <g
+       id="g12474"
+       transform="matrix(0.71979978,0,0,0.71981118,1.6795412,79.57245)"
+       style="fill:url(#linearGradient12484);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 23.011,44.446 h 7.578 v 9.479 C 27.374,50.959 24.827,47.774 23.011,44.446 Z M 30.595,33.352 H 19.75 c 0.176,2.931 0.876,5.842 2.086,8.659 h 8.759 z m 0,-11.093 h -8.989 c -1.13,2.805 -1.768,5.715 -1.879,8.659 h 10.861 v -8.659 z m -19.27,19.752 h 7.879 C 18.103,39.194 17.47,36.285 17.311,33.352 h -8.21 c 0.166,3.034 0.909,5.944 2.224,8.659 z M 30.595,9.827 c -3.395,3.121 -6.031,6.479 -7.857,9.996 h 7.857 z m 2.432,21.09 H 43.89 c -0.111,-2.944 -0.746,-5.854 -1.88,-8.659 h -8.986 v 8.659 z m 0,-21.09 v 9.996 h 7.857 C 39.057,16.306 36.424,12.947 33.027,9.827 Z M 9.105,30.917 h 8.186 c 0.101,-2.937 0.674,-5.844 1.705,-8.659 H 11.323 C 10.01,24.972 9.267,27.883 9.105,30.917 Z M 27.049,9.897 c -5.902,1.256 -11.062,4.819 -14.356,9.925 h 7.328 c 1.621,-3.458 3.985,-6.79 7.028,-9.925 z m 5.978,44.028 c 3.215,-2.964 5.766,-6.147 7.576,-9.479 h -7.576 z m 17.905,-9.479 h -7.587 c -1.738,3.522 -4.223,6.9 -7.4,10.053 6.171,-1.131 11.56,-4.74 14.987,-10.053 z m 0,-24.624 c -3.294,-5.106 -8.458,-8.669 -14.357,-9.925 3.043,3.132 5.401,6.467 7.032,9.925 z M 27.675,54.497 c -3.174,-3.155 -5.662,-6.528 -7.4,-10.053 h -7.587 c 3.425,5.315 8.816,8.924 14.987,10.053 z M 52.296,22.259 h -7.674 c 1.031,2.814 1.608,5.722 1.706,8.659 h 8.185 C 54.354,27.883 53.61,24.972 52.296,22.259 Z M 33.027,42.011 h 8.758 c 1.211,-2.817 1.907,-5.729 2.087,-8.659 H 33.027 Z m 21.486,-8.659 h -8.207 c -0.155,2.934 -0.792,5.842 -1.889,8.659 h 7.879 c 1.314,-2.715 2.058,-5.625 2.217,-8.659 z m 5.34,-1.734 c 0,15.571 -12.669,28.242 -28.237,28.242 -15.573,0 -28.24,-12.671 -28.24,-28.242 0,-15.57 12.667,-28.237 28.24,-28.237 5.922,0 11.684,1.877 16.46,5.305 l -3.332,3.331 12.698,3.31 L 54.134,2.63 50.487,6.279 C 45.056,2.231 38.436,0 31.621,0 14.184,0 0,14.184 0,31.618 0,49.055 14.184,63.24 31.621,63.24 c 17.434,0 31.62,-14.186 31.62,-31.623 h -3.388 z"
+         id="path12472"
+         style="fill:url(#linearGradient12482);fill-opacity:1;stroke:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         d="m 23.011,44.446 h 7.578 v 9.479 C 27.374,50.959 24.827,47.774 23.011,44.446 Z M 30.595,33.352 H 19.75 c 0.176,2.931 0.876,5.842 2.086,8.659 h 8.759 z m 0,-11.093 h -8.989 c -1.13,2.805 -1.768,5.715 -1.879,8.659 h 10.861 v -8.659 z m -19.27,19.752 h 7.879 C 18.103,39.194 17.47,36.285 17.311,33.352 h -8.21 c 0.166,3.034 0.909,5.944 2.224,8.659 z M 30.595,9.827 c -3.395,3.121 -6.031,6.479 -7.857,9.996 h 7.857 z m 2.432,21.09 H 43.89 c -0.111,-2.944 -0.746,-5.854 -1.88,-8.659 h -8.986 v 8.659 z m 0,-21.09 v 9.996 h 7.857 C 39.057,16.306 36.424,12.947 33.027,9.827 Z M 9.105,30.917 h 8.186 c 0.101,-2.937 0.674,-5.844 1.705,-8.659 H 11.323 C 10.01,24.972 9.267,27.883 9.105,30.917 Z M 27.049,9.897 c -5.902,1.256 -11.062,4.819 -14.356,9.925 h 7.328 c 1.621,-3.458 3.985,-6.79 7.028,-9.925 z m 5.978,44.028 c 3.215,-2.964 5.766,-6.147 7.576,-9.479 h -7.576 z m 17.905,-9.479 h -7.587 c -1.738,3.522 -4.223,6.9 -7.4,10.053 6.171,-1.131 11.56,-4.74 14.987,-10.053 z m 0,-24.624 c -3.294,-5.106 -8.458,-8.669 -14.357,-9.925 3.043,3.132 5.401,6.467 7.032,9.925 z M 27.675,54.497 c -3.174,-3.155 -5.662,-6.528 -7.4,-10.053 h -7.587 c 3.425,5.315 8.816,8.924 14.987,10.053 z M 52.296,22.259 h -7.674 c 1.031,2.814 1.608,5.722 1.706,8.659 h 8.185 C 54.354,27.883 53.61,24.972 52.296,22.259 Z M 33.027,42.011 h 8.758 c 1.211,-2.817 1.907,-5.729 2.087,-8.659 H 33.027 Z m 21.486,-8.659 h -8.207 c -0.155,2.934 -0.792,5.842 -1.889,8.659 h 7.879 c 1.314,-2.715 2.058,-5.625 2.217,-8.659 z m 5.34,-1.734 c 0,15.571 -12.669,28.242 -28.237,28.242 -15.573,0 -28.24,-12.671 -28.24,-28.242 0,-15.57 12.667,-28.237 28.24,-28.237 5.922,0 11.684,1.877 16.46,5.305 l -3.332,3.331 12.698,3.31 L 54.134,2.63 50.487,6.279 C 45.056,2.231 38.436,0 31.621,0 14.184,0 0,14.184 0,31.618 0,49.055 14.184,63.24 31.621,63.24 c 17.434,0 31.62,-14.186 31.62,-31.623 h -3.388 z"
+         id="path81548"
+         style="fill:url(#linearGradient81772);fill-opacity:1;stroke:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g60031"
+       transform="matrix(1.0797421,0,0,1.0797421,221.2033,58.90367)"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m -167.99933,55.944039 h -9.41513 c -3.97758,0 -7.21353,-3.235942 -7.21353,-7.214174 0,-2.763003 1.79924,-5.631108 4.2789,-6.819727 l 0.37698,-0.180076 v -0.41903 c 0,-0.0845 0.004,-0.170135 0.0115,-0.256924 l 0.007,-0.106293 -0.007,-0.139551 c -0.004,-0.05392 -0.007,-0.107815 -0.007,-0.162489 0,-2.566793 2.08923,-4.656021 4.65603,-4.656021 0.20568,0 0.40839,0.01911 0.60991,0.04473 0.0521,0.0076 0.10361,0.01528 0.15485,0.02295 0.17778,0.03058 0.35251,0.06806 0.52478,0.117755 0.023,0.0076 0.0474,0.01151 0.0703,0.01912 0.18964,0.05773 0.37468,0.131138 0.55541,0.213338 0.0474,0.02295 0.0932,0.04473 0.13955,0.06728 0.15981,0.07914 0.3158,0.165548 0.46689,0.263424 1.28175,0.83011 2.13381,2.270146 2.13381,3.907729 0,0.3678 0.29746,0.665136 0.66514,0.665136 0.36779,0 0.66513,-0.29745 0.66513,-0.665136 0,-1.831806 -0.82877,-3.471379 -2.12845,-4.570226 1.90698,-2.494266 5.04714,-4.076681 8.17129,-4.076681 5.15156,0 9.42976,4.080694 9.87609,9.237566 -0.67978,-0.04779 -1.69745,-0.07264 -2.71579,0.08258 -0.36321,0.05505 -0.6126,0.394408 -0.55739,0.757581 0.0498,0.329184 0.33339,0.565385 0.6565,0.565385 0.0344,0 0.0673,-0.0027 0.10053,-0.0076 1.4813,-0.224044 3.02509,-0.0153 3.11555,-0.0012 3.09692,0.588668 5.43157,3.441482 5.43157,6.641486 0,3.677608 -2.99248,6.670084 -6.67009,6.670084 h -8.62823 z"
+         id="path12476"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.665147"
+         inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text59798"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect59800)" />
+    <rect
+       style="opacity:0.89;fill:url(#linearGradient61394);fill-opacity:1;stroke:none;stroke-width:0.272568;stroke-opacity:1"
+       id="rect61096"
+       width="152.97575"
+       height="2.591253"
+       x="51.653412"
+       y="104.60449"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g80602"
+       transform="matrix(0.71979978,0,0,0.71981118,1.6795412,79.57245)"
+       style="fill:url(#linearGradient80944);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 23.011,44.446 h 7.578 v 9.479 C 27.374,50.959 24.827,47.774 23.011,44.446 Z M 30.595,33.352 H 19.75 c 0.176,2.931 0.876,5.842 2.086,8.659 h 8.759 z m 0,-11.093 h -8.989 c -1.13,2.805 -1.768,5.715 -1.879,8.659 h 10.861 v -8.659 z m -19.27,19.752 h 7.879 C 18.103,39.194 17.47,36.285 17.311,33.352 h -8.21 c 0.166,3.034 0.909,5.944 2.224,8.659 z M 30.595,9.827 c -3.395,3.121 -6.031,6.479 -7.857,9.996 h 7.857 z m 2.432,21.09 H 43.89 c -0.111,-2.944 -0.746,-5.854 -1.88,-8.659 h -8.986 v 8.659 z m 0,-21.09 v 9.996 h 7.857 C 39.057,16.306 36.424,12.947 33.027,9.827 Z M 9.105,30.917 h 8.186 c 0.101,-2.937 0.674,-5.844 1.705,-8.659 H 11.323 C 10.01,24.972 9.267,27.883 9.105,30.917 Z M 27.049,9.897 c -5.902,1.256 -11.062,4.819 -14.356,9.925 h 7.328 c 1.621,-3.458 3.985,-6.79 7.028,-9.925 z m 5.978,44.028 c 3.215,-2.964 5.766,-6.147 7.576,-9.479 h -7.576 z m 17.905,-9.479 h -7.587 c -1.738,3.522 -4.223,6.9 -7.4,10.053 6.171,-1.131 11.56,-4.74 14.987,-10.053 z m 0,-24.624 c -3.294,-5.106 -8.458,-8.669 -14.357,-9.925 3.043,3.132 5.401,6.467 7.032,9.925 z M 27.675,54.497 c -3.174,-3.155 -5.662,-6.528 -7.4,-10.053 h -7.587 c 3.425,5.315 8.816,8.924 14.987,10.053 z M 52.296,22.259 h -7.674 c 1.031,2.814 1.608,5.722 1.706,8.659 h 8.185 C 54.354,27.883 53.61,24.972 52.296,22.259 Z M 33.027,42.011 h 8.758 c 1.211,-2.817 1.907,-5.729 2.087,-8.659 H 33.027 Z m 21.486,-8.659 h -8.207 c -0.155,2.934 -0.792,5.842 -1.889,8.659 h 7.879 c 1.314,-2.715 2.058,-5.625 2.217,-8.659 z m 5.34,-1.734 c 0,15.571 -12.669,28.242 -28.237,28.242 -15.573,0 -28.24,-12.671 -28.24,-28.242 0,-15.57 12.667,-28.237 28.24,-28.237 5.922,0 11.684,1.877 16.46,5.305 l -3.332,3.331 12.698,3.31 L 54.134,2.63 50.487,6.279 C 45.056,2.231 38.436,0 31.621,0 14.184,0 0,14.184 0,31.618 0,49.055 14.184,63.24 31.621,63.24 c 17.434,0 31.62,-14.186 31.62,-31.623 h -3.388 z"
+         id="path80600"
+         style="fill:url(#linearGradient81102);fill-opacity:1;stroke:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g60224"
+       transform="matrix(1.0797421,0,0,1.0797421,221.2033,58.90367)"
+       style="fill:url(#linearGradient60790);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m -167.99933,55.944039 h -9.41513 c -3.97758,0 -7.21353,-3.235942 -7.21353,-7.214174 0,-2.763003 1.79924,-5.631108 4.2789,-6.819727 l 0.37698,-0.180076 v -0.41903 c 0,-0.0845 0.004,-0.170135 0.0115,-0.256924 l 0.007,-0.106293 -0.007,-0.139551 c -0.004,-0.05392 -0.007,-0.107815 -0.007,-0.162489 0,-2.566793 2.08923,-4.656021 4.65603,-4.656021 0.20568,0 0.40839,0.01911 0.60991,0.04473 0.0521,0.0076 0.10361,0.01528 0.15485,0.02295 0.17778,0.03058 0.35251,0.06806 0.52478,0.117755 0.023,0.0076 0.0474,0.01151 0.0703,0.01912 0.18964,0.05773 0.37468,0.131138 0.55541,0.213338 0.0474,0.02295 0.0932,0.04473 0.13955,0.06728 0.15981,0.07914 0.3158,0.165548 0.46689,0.263424 1.28175,0.83011 2.13381,2.270146 2.13381,3.907729 0,0.3678 0.29746,0.665136 0.66514,0.665136 0.36779,0 0.66513,-0.29745 0.66513,-0.665136 0,-1.831806 -0.82877,-3.471379 -2.12845,-4.570226 1.90698,-2.494266 5.04714,-4.076681 8.17129,-4.076681 5.15156,0 9.42976,4.080694 9.87609,9.237566 -0.67978,-0.04779 -1.69745,-0.07264 -2.71579,0.08258 -0.36321,0.05505 -0.6126,0.394408 -0.55739,0.757581 0.0498,0.329184 0.33339,0.565385 0.6565,0.565385 0.0344,0 0.0673,-0.0027 0.10053,-0.0076 1.4813,-0.224044 3.02509,-0.0153 3.11555,-0.0012 3.09692,0.588668 5.43157,3.441482 5.43157,6.641486 0,3.677608 -2.99248,6.670084 -6.67009,6.670084 h -8.62823 z"
+         id="path60222"
+         style="fill:url(#linearGradient82347);fill-opacity:1;stroke:none;stroke-width:0.665147;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Robert Ferrer\Desktop\My files\portfolio_robert_ferrer\assets\files\logomini.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>
